@@ -44,6 +44,8 @@ gem 'devise-i18n-views'
 
 gem 'omniauth'
 
+gem 'cancancan'
+
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
